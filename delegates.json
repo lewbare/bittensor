@@ -64,4 +64,9 @@
         "url": "www.tensor.exchange", 
         "description": "Bittensor's first community OTC exchange"
     }
-}
+} ,
+    "5FP9miYmgjAP8Wt3747M2Y6Kk7PrXf6zG7a3EjokQiFFcmUu": {
+        "name": "Elm Capital", 
+        "url": "", 
+        "description": "Run by individuals passionate about creating decentralised digitial infrastructue. Background in fidicuary funds management managing institutional investors capital in real asset, energy and infrastructure."
+    }
